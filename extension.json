@@ -1,0 +1,10 @@
+{
+  "id": "matn.ext.trustdialog",
+  "name": "Workspace Trust Shield",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Security prompt preventing automatic code execution in untrusted directories",
+  "category": "tools",
+  "type": "plugin",
+  "repository": "https://github.com/matn-extensions/ext-trustdialog"
+}
